@@ -1,4 +1,4 @@
-# C-_Primer_tutorial
+# C++_Primer_tutorial
 C++ file used to test what learned in chapters 1-6 of **C++ Primer** book. This is not a full tutorial, it is just an utility file I used to make practice. I share it in case it can be useful to others.
 
 To execute the code related to a specific topic only comment/uncomment the following lines:
